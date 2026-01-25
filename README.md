@@ -22,7 +22,7 @@ To submit a patch, first file an issue and/or present a pull request.
 ### Code style
 Code as you wish but use two slashes `//` or single star C++-style `/**/` for comments used as messages.
 
-Commented out code should use three slashes `///` or double star C++-style.
+Commented out code should use three slashes `///` or double star C++-style `/**`.
 
 
 ### Known Bugs/Glitches
